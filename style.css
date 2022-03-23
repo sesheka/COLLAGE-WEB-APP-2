@@ -1,0 +1,22 @@
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+body{
+    text-align: center;
+    font-family: fantasy;
+    background-color: aqua;
+}
+h4{
+    color: red;
+}
+#camara{
+    width: 500px;
+    height: 400px;
+    border-color: black;
+}
+img:hover{
+    border-radius: 140px;
+}
